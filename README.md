@@ -1,4 +1,4 @@
-libusu homebrew, important
+libusb homebrew, important
 =======
 Waste ink counter resetter for some (EPSON) printers.
 
