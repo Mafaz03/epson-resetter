@@ -1,4 +1,4 @@
-ReInkPy
+libusu homebrew, important
 =======
 Waste ink counter resetter for some (EPSON) printers.
 
